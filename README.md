@@ -5,7 +5,8 @@
 Кирилл Соколов(я) — Проектирование и реализация архитектуры EfficientNet с нуля, оптимизация пайплайна обучения, проведение экспериментов, подготовка датасета.
 Мария Начинова — Исследование базовых CNN-решений, EDA и подготовка первичного датасета.
 
-## Технологический стек: PyTorch, torchvision, Pandas, NumPy, Scikit-learn, Matplotlib
+## Технологический стек: 
+PyTorch, torchvision, Pandas, NumPy, Scikit-learn, Matplotlib
 Архитектурные решения: Реализация блоков MBConv, использование Depthwise Separable Convolutions, механизмы Squeeze-and-Excitation.
 
 ## Ключевые особенности реализации
